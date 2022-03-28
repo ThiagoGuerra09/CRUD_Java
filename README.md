@@ -38,7 +38,7 @@ dos melhores tipos para cada atributo):
 
 ■ pontos
 
-● O sistema deverá oferecer uma tela inicial (com uso pelo terminal) com um menu com as
+■ O sistema deverá oferecer uma tela inicial (com uso pelo terminal) com um menu com as
 seguintes opções:
 
 ■ Criar um clube -> essa escolha deve, a partir da leitura dos dados do clube pelo
