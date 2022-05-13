@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 
+
 public class Cmain {
     private static void clearBuffer(Scanner scanner)        //procedimento para linpa o bufffer de memória//
     {
